@@ -1,1 +1,1 @@
-mruffalo/calibre	Dockerfile
+mruffalo/calibre	Dockerfile	write_git_json=rev.json
