@@ -6,3 +6,5 @@ RUN apt-get update \
  && apt-get -y install \
     calibre \
  && rm -rf /var/cache/apt/*
+
+COPY rev.json /opt
